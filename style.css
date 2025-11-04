@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    font-family: "poppins",sans-serif;
+}
+.Clock-Container{
+    background-color: rgb(196, 196, 218);
+    color: brown;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+
+}
+#clock{
+    font-size: 3rem;
+    font-weight: bold;
+    background-color: black;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px white;
+}
+
